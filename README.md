@@ -61,7 +61,7 @@ The AI Lead Generation Agent automates the process of finding and qualifying pot
    ```
 4. **Important thing to do in composio**:
     - in the terminal, run this command: `composio add googlesheets`
-    - In your compposio dashboard, create a new google sheet intergation and make sure it is active in the active integrations/connections tab
+    - In your composio dashboard, create a new google sheet intergation and make sure it is active in the active integrations/connections tab
 
 5. **Set up your API keys**:
    - Get your Firecrawl API key from [Firecrawl's website](https://www.firecrawl.dev/app/api-keys)
